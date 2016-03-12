@@ -18,7 +18,7 @@
             android:layout_height="100dp"
             ccg:ccg_tvsize= "5dp"
             ccg:ccg_iconsrc="@mipmap/ic_menu_item"
-            ccg:ccg_tvtext="工作" />
+            ccg:ccg_tvtext="工作工作工作工作工作工作工作工作工作" />
 
         <com.ccg.slidingview.FloatButton
             android:layout_width="150dp"
