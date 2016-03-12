@@ -18,28 +18,28 @@
             android:layout_height="100dp"
             ccg:ccg_tvsize= "5dp"
             ccg:ccg_iconsrc="@mipmap/ic_menu_item"
-            ccg:ccg_tvtext="首页" />
+            ccg:ccg_tvtext="工作群聊" />
 
         <com.ccg.slidingview.FloatButton
             android:layout_width="150dp"
             android:layout_height="100dp"
             ccg:ccg_iconsrc="@mipmap/ic_menu_item"
             ccg:ccg_tvsize= "5dp"
-            ccg:ccg_tvtext="我的音乐" />
+            ccg:ccg_tvtext="提醒" />
 
         <com.ccg.slidingview.FloatButton
             android:layout_width="150dp"
             android:layout_height="100dp"
             ccg:ccg_tvsize= "5dp"
             ccg:ccg_iconsrc="@mipmap/ic_menu_item"
-            ccg:ccg_tvtext="我的收藏" />
+            ccg:ccg_tvtext="文字笔记" />
 
         <com.ccg.slidingview.FloatButton
             android:layout_width="150dp"
             ccg:ccg_tvsize= "5dp"
             android:layout_height="100dp"
             ccg:ccg_iconsrc="@mipmap/ic_menu_item"
-            ccg:ccg_tvtext="个人中心" />
+            ccg:ccg_tvtext="拍照" />
 
 
         <ImageView
