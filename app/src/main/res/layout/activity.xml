@@ -17,7 +17,7 @@
             android:layout_height="100dp"
             ccg:ccg_tvsize= "5dp"
             ccg:ccg_iconsrc="@mipmap/ic_menu_item"
-            ccg:ccg_tvtext="工作群聊" />
+            ccg:ccg_tvtext="工作" />
 
         <com.ccg.slidingview.FloatButton
             android:layout_width="150dp"
@@ -31,7 +31,7 @@
             android:layout_height="100dp"
             ccg:ccg_tvsize= "5dp"
             ccg:ccg_iconsrc="@mipmap/ic_menu_item"
-            ccg:ccg_tvtext="文字笔记" />
+            ccg:ccg_tvtext="文字" />
 
         <com.ccg.slidingview.FloatButton
             android:layout_width="150dp"
