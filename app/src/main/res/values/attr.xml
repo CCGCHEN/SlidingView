@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SlidingView">
+        <attr name="ccg_iconsrc" format="reference"/>
+        <attr name="ccg_iconcolor" format="color"/>
+        <attr name="ccg_iconwidth" format="dimension"/>
+        <attr name="ccg_iconhight" format="dimension"/>
+        <attr name="ccg_tvsize" format="dimension"/>
+        <attr name="ccg_tvcolor" format="color"/>
+        <attr name="ccg_tvwidth" format="dimension"/>
+        <attr name="ccg_tvhight" format="dimension"/>
+        <attr name="ccg_tvtext" format="string"/>
+    </declare-styleable>
+</resources>
